@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Exercice_17",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Exercice_17::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Exercice_17-Debug-33078c4ee1a82176966e.json",
+					"name" : "Exercice_17",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "programme_equationSecondDegre::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-programme_equationSecondDegre-Debug-9902908c2e121b5e6206.json",
+					"name" : "programme_equationSecondDegre",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Cours/Formation/C/Hassan EL BAHI/Exercices corrig\u00e9s en C/Langage C-3 - Exercices/Exercice 17/cmake-build-debug",
+		"source" : "E:/Cours/Formation/C/Hassan EL BAHI/Exercices corrig\u00e9s en C/Langage C-3 - Exercices/Exercice 17"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

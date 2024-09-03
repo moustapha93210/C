@@ -1,0 +1,16 @@
+# Ignorer le dossier .obsidian dans C Hassan EL BAHI
+C Hassan EL BAHI/.obsidian/
+
+# Ignorer le dossier .trash dans C Hassan EL BAHI
+C Hassan EL BAHI/.trash/
+
+# Ignorer d'autres dossiers ou fichiers spécifiques
+shelf/
+workspace.xml
+
+# Editor-based HTTP Client requests
+httpRequests/
+
+# Datasource local storage ignored files
+dataSources/
+dataSources.local.xml

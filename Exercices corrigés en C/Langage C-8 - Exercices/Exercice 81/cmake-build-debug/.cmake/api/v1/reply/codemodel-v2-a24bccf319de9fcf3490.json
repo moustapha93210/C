@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Exercice_81",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-6ed2049a55206f10c73f.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "programme_PtrsDiviseurs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-programme_PtrsDiviseurs-Debug-0c6ec42094b357903528.json",
+					"name" : "programme_PtrsDiviseurs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "programme_PtrsPairImpair::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-programme_PtrsPairImpair-Debug-e343949d6b7b279c51fb.json",
+					"name" : "programme_PtrsPairImpair",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Cours/Formation/C/Hassan EL BAHI/Exercices corrig\u00e9s en C/Langage C-8 - Exercices/Exercice 81/cmake-build-debug",
+		"source" : "E:/Cours/Formation/C/Hassan EL BAHI/Exercices corrig\u00e9s en C/Langage C-8 - Exercices/Exercice 81"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
