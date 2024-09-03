@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "0d0f9a2bd051e4a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5126259263ad19fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44e6e3ef43892fd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/Exercices - Langage C-9  Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp, ....md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc86611ae6cfa8a3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/img - Langage C-9/Pasted image 20240902021929.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38989f76565514cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ef35b42c7b347d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff4f18a79301edb7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f1c20de2da04fea3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8b7f8347e4929d6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 218.5
+  },
+  "right": {
+    "id": "92e50c9c45b2b22a",
+    "type": "split",
+    "children": [
+      {
+        "id": "776f4d6aa6c43cf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac8a17d0fe95e3a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/Exercices - Langage C-9  Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp, ....md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b681a109e8bf6209",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/Exercices - Langage C-9  Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp, ....md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f845b1d985e449a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "67cdd41113bcb123",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/Exercices - Langage C-9  Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp, ....md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "44e6e3ef43892fd2",
+  "lastOpenFiles": [
+    "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/Langage C-9  Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp, ....md",
+    "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/Exercices - Langage C-9  Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp, ....md",
+    "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/img - Langage C-9/Pasted image 20240902021929.png",
+    "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/img - Langage C-9/Pasted image 20240902031605.png",
+    "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/img - Langage C-9/Pasted image 20240902025535.png",
+    "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/img - Langage C-9/Pasted image 20240902025149.png",
+    "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/img - Langage C-9/Pasted image 20240902024716.png",
+    "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/img - Langage C-9/Pasted image 20240902024207.png",
+    "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/img - Langage C-9/Pasted image 20240902023914.png",
+    "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/img - Langage C-9/Pasted image 20240902023844.png",
+    "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/img - Langage C-9/Pasted image 20240902022944.png",
+    "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/img - Langage C-9/Pasted image 20240902022713.png",
+    "Langage C-8 - Pointeurs, passage par valeur, passage par adresse et arithmétique des pointeurs/Langage C-8 - Pointeurs, passage par valeur, passage par adresse et arithmétique des pointeurs.md",
+    "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/img - Langage C-9",
+    "Exercices corrigés en C/Langage C-9  - Exercices/Langage C-9 - Exercices.md",
+    "Exercices corrigés en C/Langage C-9  - Exercices/Langage C-9 - Exercices corrigés.md",
+    "Langage C-8 - Pointeurs, passage par valeur, passage par adresse et arithmétique des pointeurs/Exercices - Langage C-8 - Pointeurs, passage par valeur, passage par adresse et arithmétique des pointeurs.md",
+    "Exercices corrigés en C/Langage C-8 - Exercices/Langage C-8 - Exercices.md",
+    "Exercices corrigés en C/Langage C-8 - Exercices/Langages C-8 - Exercices corrigés.md",
+    "Exercices corrigés en C/Langage C-7 - Exercices/Langage C-7 - Exercices corrigés.md",
+    "Exercices corrigés en C/Langage C-7 - Exercices/Langage C-7 - Exercices.md",
+    "Exercices corrigés en C/Langage C-8 - Exercices",
+    "Langage C-7 - Les fonctions - Définition et appel de fonction - Les variables - locales et globales/Langage C-7 - Les fonctions - Définition et appel de fonction - Les variables - locales et globales.md",
+    "Exercices corrigés en C/Langage C-6 - Exercices/Langages C-6 Exercices.md",
+    "Exercices corrigés en C/Langage C-4 - Exercices/Langage C-4 - Exercices corrigés.md",
+    "Exercices corrigés en C/Langage C-6 - Exercices/Langages C-6 - Exercices corrigés.md",
+    "Exercices corrigés en C/Langage C-7 - Exercices",
+    "Langage C-7 - Les fonctions - Définition et appel de fonction - Les variables - locales et globales/Exercices - Langage C-7 - Les fonctions - Définition et appel de fonction - Les variables - locales et globales.md",
+    "Langage C-6 - Les Tableaux - Déclaration initialisation, affichage et remplissage/Langage C-6 - Les Tableaux - Déclaration initialisation, affichage et remplissage.md",
+    "Langage C-5 - Les instructions de contrôle des boucles - break, continue et goto/Langage C-5 - Les instructions de contrôle des boucles - break, continue et goto.md",
+    "Exercices corrigés en C/Langage C-4 - Exercices/Langage C-4 - Exercices.md",
+    "Langage C-2 - Déclaration, affectation, Printf, Scanf, structure d'un programme et les opérateurs/Langage C-2 - Déclaration, affectation, Printf, Scanf, structure d'un programme et les opérateurs.md",
+    "Exercices corrigés en C/Langage C-6 - Exercices",
+    "Langage C-4 - Structures répétitives  Les boucles  for, while, et do ... while/Langage C-4 - Structures répétitives  Les boucles  for, while, et do ... while.md",
+    "Exercices corrigés en C/Langage C-3 - Exercices/Langage C-3 - Exercices.md",
+    "Exercices corrigés en C/Langage C-3 - Exercices/Langage C-3 - Exercices corrigés.md",
+    "Exercices corrigés en C/Langage C-4 - Exercices",
+    "Exercices corrigés en C/Langage C-2 - Exercices/Langage C-2 - Exercices.md",
+    "Exercices corrigés en C/Langage C-2 - Exercices/Langage C-2 - Exercices corrigés.md",
+    "Exercices corrigés en C/Langage C-3 - Exercices",
+    "Exercices corrigés en C/Langage C-2 - Exercices/Nouveau Document texte.txt",
+    "Langage C-2 - Déclaration, affectation, Printf, Scanf, structure d'un programme et les opérateurs/Exercices - Langage C-2 - Déclaration, affectation, Printf, Scanf, structure d'un programme et les opérateurs.md",
+    "Exercices corrigés en C/Langage C-2 - Exercices",
+    "Exercices corrigés en C/Nouveau dossier",
+    "Exercices corrigés en C"
+  ]
+}
