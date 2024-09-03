@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Langage_C-7",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "fonction_variable_globales::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fonction_variable_globales-Debug-45fc9ddef95adfb28915.json",
+					"name" : "fonction_variable_globales",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fonction_variables_locales::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fonction_variables_locales-Debug-0d23cabcdc71916cd3a9.json",
+					"name" : "fonction_variables_locales",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-6ed2049a55206f10c73f.json",
+					"name" : "main",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Cours/Formation/C/Hassan EL BAHI/Langage C-7 - Les fonctions - D\u00e9finition et appel de fonction - Les variables - locales et globales/cmake-build-debug",
+		"source" : "E:/Cours/Formation/C/Hassan EL BAHI/Langage C-7 - Les fonctions - D\u00e9finition et appel de fonction - Les variables - locales et globales"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
