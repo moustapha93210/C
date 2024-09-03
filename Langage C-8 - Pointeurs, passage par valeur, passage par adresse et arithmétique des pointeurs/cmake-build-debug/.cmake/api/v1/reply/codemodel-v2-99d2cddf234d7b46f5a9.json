@@ -1,0 +1,186 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Langage_C-8",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Arithmetique_des_pointeurs-Comparaison::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Arithmetique_des_pointeurs-Comparaison-Debug-cc7043c395d0b22e7a81.json",
+					"name" : "Arithmetique_des_pointeurs-Comparaison",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Arithmetique_des_pointeurs-Incrementation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Arithmetique_des_pointeurs-Incrementation-Debug-fe0999cb5249187bcdd4.json",
+					"name" : "Arithmetique_des_pointeurs-Incrementation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Arithmetique_des_pointeurs-addition::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Arithmetique_des_pointeurs-addition-Debug-85453dd117e22e962452.json",
+					"name" : "Arithmetique_des_pointeurs-addition",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Arithmetique_des_pointeurs-sizeof::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Arithmetique_des_pointeurs-sizeof-Debug-ff6d604c216f31b83957.json",
+					"name" : "Arithmetique_des_pointeurs-sizeof",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Arithmetique_des_pointeurs-soustraction::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Arithmetique_des_pointeurs-soustraction-Debug-e098f25de2f85d6316dc.json",
+					"name" : "Arithmetique_des_pointeurs-soustraction",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Arithmetique_des_pointeurs-soustraction_entre_2_pointeurs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Arithmetique_des_pointeurs-soustraction_entre_2_pointeurs-Debug-c45b2e8b100182148150.json",
+					"name" : "Arithmetique_des_pointeurs-soustraction_entre_2_pointeurs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Exercice_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Exercice_1-Debug-cb268b28e18a0acd08d3.json",
+					"name" : "Exercice_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Exercice_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Exercice_2-Debug-ea320522ba3fc803ae64.json",
+					"name" : "Exercice_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Exercice_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Exercice_3-Debug-b3e881ae95cb22c4bc12.json",
+					"name" : "Exercice_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Exercice_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Exercice_4-Debug-f5648bd7868ae397b910.json",
+					"name" : "Exercice_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Exercice_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Exercice_5-Debug-24ae6a266d70d5c9cc16.json",
+					"name" : "Exercice_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Pointeur-tableau::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Pointeur-tableau-Debug-deffc0c687e2a9e2637b.json",
+					"name" : "Pointeur-tableau",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Pointeur-tableau_Exemple_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Pointeur-tableau_Exemple_2-Debug-07bd7c5210175f939a79.json",
+					"name" : "Pointeur-tableau_Exemple_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Pointeur-tableau_Exemple_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Pointeur-tableau_Exemple_3-Debug-5a67d305672f7673dbb3.json",
+					"name" : "Pointeur-tableau_Exemple_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-6ed2049a55206f10c73f.json",
+					"name" : "main",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Cours/Formation/C/Hassan EL BAHI/Langage C-8 - Pointeurs, passage par valeur, passage par adresse et arithm\u00e9tique des pointeurs/cmake-build-debug",
+		"source" : "E:/Cours/Formation/C/Hassan EL BAHI/Langage C-8 - Pointeurs, passage par valeur, passage par adresse et arithm\u00e9tique des pointeurs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

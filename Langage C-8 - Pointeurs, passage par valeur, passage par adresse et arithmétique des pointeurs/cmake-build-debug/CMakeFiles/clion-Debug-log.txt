@@ -1,0 +1,46 @@
+C:\Users\chaib\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/chaib/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S "E:\Cours\Formation\C\Hassan EL BAHI\Langage C-8 - Pointeurs, passage par valeur, passage par adresse et arithmétique des pointeurs" -B "E:\Cours\Formation\C\Hassan EL BAHI\Langage C-8 - Pointeurs, passage par valeur, passage par adresse et arithmétique des pointeurs\cmake-build-debug"
+-- Configuring done (0.2s)
+CMake Warning in CMakeLists.txt:
+  The object file directory
+
+    E:/Cours/Formation/C/Hassan EL BAHI/Langage C-8 - Pointeurs, passage par valeur, passage par adresse et arithmétique des pointeurs/cmake-build-debug/CMakeFiles/Arithmetique_des_pointeurs-Incrementation.dir/./
+
+  has 209 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    Arithmetique_des_pointeurs-Incrementation.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+CMake Warning in CMakeLists.txt:
+  The object file directory
+
+    E:/Cours/Formation/C/Hassan EL BAHI/Langage C-8 - Pointeurs, passage par valeur, passage par adresse et arithmétique des pointeurs/cmake-build-debug/CMakeFiles/Arithmetique_des_pointeurs-soustraction.dir/./
+
+  has 207 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    Arithmetique_des_pointeurs-soustraction.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+CMake Warning in CMakeLists.txt:
+  The object file directory
+
+    E:/Cours/Formation/C/Hassan EL BAHI/Langage C-8 - Pointeurs, passage par valeur, passage par adresse et arithmétique des pointeurs/cmake-build-debug/CMakeFiles/Arithmetique_des_pointeurs-soustraction_entre_2_pointeurs.dir/./
+
+  has 225 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    Arithmetique_des_pointeurs-soustraction_entre_2_pointeurs.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Generating done (0.2s)
+-- Build files have been written to: E:/Cours/Formation/C/Hassan EL BAHI/Langage C-8 - Pointeurs, passage par valeur, passage par adresse et arithmétique des pointeurs/cmake-build-debug
