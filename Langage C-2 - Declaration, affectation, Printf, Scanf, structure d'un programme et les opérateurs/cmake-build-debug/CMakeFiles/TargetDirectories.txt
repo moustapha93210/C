@@ -1,0 +1,7 @@
+E:/Cours/Formation/C/Hassan EL BAHI/Langage C-2 - Declaration, affectation, Printf, Scanf, structure d'un programme et les opérateurs/cmake-build-debug/CMakeFiles/main.dir
+E:/Cours/Formation/C/Hassan EL BAHI/Langage C-2 - Declaration, affectation, Printf, Scanf, structure d'un programme et les opérateurs/cmake-build-debug/CMakeFiles/programme.dir
+E:/Cours/Formation/C/Hassan EL BAHI/Langage C-2 - Declaration, affectation, Printf, Scanf, structure d'un programme et les opérateurs/cmake-build-debug/CMakeFiles/scanf.dir
+E:/Cours/Formation/C/Hassan EL BAHI/Langage C-2 - Declaration, affectation, Printf, Scanf, structure d'un programme et les opérateurs/cmake-build-debug/CMakeFiles/exercice_4.dir
+E:/Cours/Formation/C/Hassan EL BAHI/Langage C-2 - Declaration, affectation, Printf, Scanf, structure d'un programme et les opérateurs/cmake-build-debug/CMakeFiles/exercice_5.dir
+E:/Cours/Formation/C/Hassan EL BAHI/Langage C-2 - Declaration, affectation, Printf, Scanf, structure d'un programme et les opérateurs/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Cours/Formation/C/Hassan EL BAHI/Langage C-2 - Declaration, affectation, Printf, Scanf, structure d'un programme et les opérateurs/cmake-build-debug/CMakeFiles/rebuild_cache.dir

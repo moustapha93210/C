@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Langage_C-2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "exercice_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exercice_4-Debug-d2cdfcf890f889bea545.json",
+					"name" : "exercice_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exercice_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exercice_5-Debug-5c65b51ac13214bb5c74.json",
+					"name" : "exercice_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-6ed2049a55206f10c73f.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "programme::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-programme-Debug-64b73325f5a8a3e1df5b.json",
+					"name" : "programme",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "scanf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-scanf-Debug-a675cef7f07157119ed7.json",
+					"name" : "scanf",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Cours/Formation/C/Hassan EL BAHI/Langage C-2 - Declaration, affectation, Printf, Scanf, structure d'un programme et les op\u00e9rateurs/cmake-build-debug",
+		"source" : "E:/Cours/Formation/C/Hassan EL BAHI/Langage C-2 - Declaration, affectation, Printf, Scanf, structure d'un programme et les op\u00e9rateurs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
