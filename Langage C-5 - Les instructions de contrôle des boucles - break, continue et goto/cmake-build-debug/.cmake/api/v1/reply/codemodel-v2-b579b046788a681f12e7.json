@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Langage_C-5",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "entrer_8_nombre_break::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-entrer_8_nombre_break-Debug-b0bb6befb070f81956d6.json",
+					"name" : "entrer_8_nombre_break",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "entrer_8_nombre_continue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-entrer_8_nombre_continue-Debug-8a1075b121dc249a9c56.json",
+					"name" : "entrer_8_nombre_continue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "entrer_nb_goto::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-entrer_nb_goto-Debug-a8d7b48d45aba5b3ae95.json",
+					"name" : "entrer_nb_goto",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-6ed2049a55206f10c73f.json",
+					"name" : "main",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Cours/Formation/C/Hassan EL BAHI/Langage C-5 - Les instructions de contr\u00f4le des boucles - break, continue et goto/cmake-build-debug",
+		"source" : "E:/Cours/Formation/C/Hassan EL BAHI/Langage C-5 - Les instructions de contr\u00f4le des boucles - break, continue et goto"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
