@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.29)
+project(Langage_C-9 C)
+
+set(CMAKE_C_STANDARD 99)
+
+add_executable(main main.c)
+add_executable(Affichage-et-Ecriture_Affichage Affichage-et-Ecriture_Affichage.c)
+add_executable(Affichage-et-Ecriture_Ecriture Affichage-et-Ecriture_Ecriture.c)
+add_executable(Fonctions_sur_les_chaines-strlen Fonctions_sur_les_chaines-strlen.c)
+add_executable(Fonctions_sur_les_chaines-strcpy Fonctions_sur_les_chaines-strcpy.c)
+add_executable(Fonctions_sur_les_chaines-strncopy Fonctions_sur_les_chaines-strncopy.c)
+add_executable(Fonctions_sur_les_chaines-strcat Fonctions_sur_les_chaines-strcat.c)
+add_executable(Fonctions_sur_les_chaines-strncat Fonctions_sur_les_chaines-strncat.c)
+add_executable(Fonctions_sur_les_chaines-strcmp Fonctions_sur_les_chaines-strcmp.c)
+add_executable(Fonctions_sur_les_chaines-strrchr Fonctions_sur_les_chaines-strrchr.c)
+add_executable(Exercice_2 Exercice_2.c)

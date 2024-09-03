@@ -1,0 +1,150 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Langage_C-9",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Affichage-et-Ecriture_Affichage::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Affichage-et-Ecriture_Affichage-Debug-08539280557af0789115.json",
+					"name" : "Affichage-et-Ecriture_Affichage",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Affichage-et-Ecriture_Ecriture::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Affichage-et-Ecriture_Ecriture-Debug-40e7f7f57ee10ba2fbb9.json",
+					"name" : "Affichage-et-Ecriture_Ecriture",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Exercice_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Exercice_2-Debug-a4578ec154b6233e759d.json",
+					"name" : "Exercice_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Fonctions_sur_les_chaines-strcat::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Fonctions_sur_les_chaines-strcat-Debug-2bc1a9881615cd288eb6.json",
+					"name" : "Fonctions_sur_les_chaines-strcat",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Fonctions_sur_les_chaines-strcmp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Fonctions_sur_les_chaines-strcmp-Debug-c3a90b2ff621c42d7319.json",
+					"name" : "Fonctions_sur_les_chaines-strcmp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Fonctions_sur_les_chaines-strcpy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Fonctions_sur_les_chaines-strcpy-Debug-6760f644377e977a7b31.json",
+					"name" : "Fonctions_sur_les_chaines-strcpy",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Fonctions_sur_les_chaines-strlen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Fonctions_sur_les_chaines-strlen-Debug-85f9df1fda45c390142b.json",
+					"name" : "Fonctions_sur_les_chaines-strlen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Fonctions_sur_les_chaines-strncat::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Fonctions_sur_les_chaines-strncat-Debug-b91a8094097adf96e4f4.json",
+					"name" : "Fonctions_sur_les_chaines-strncat",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Fonctions_sur_les_chaines-strncopy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Fonctions_sur_les_chaines-strncopy-Debug-9746ddbe1d6322d82e37.json",
+					"name" : "Fonctions_sur_les_chaines-strncopy",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Fonctions_sur_les_chaines-strrchr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Fonctions_sur_les_chaines-strrchr-Debug-50c3dbfa362603d2e914.json",
+					"name" : "Fonctions_sur_les_chaines-strrchr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-6ed2049a55206f10c73f.json",
+					"name" : "main",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Cours/Formation/C/Hassan EL BAHI/Langage C-9 - Cha\u00eenes de caract\u00e8res, d\u00e9claration, initialisation, puts, gets, strlen, strcmp,/cmake-build-debug",
+		"source" : "E:/Cours/Formation/C/Hassan EL BAHI/Langage C-9 - Cha\u00eenes de caract\u00e8res, d\u00e9claration, initialisation, puts, gets, strlen, strcmp,"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

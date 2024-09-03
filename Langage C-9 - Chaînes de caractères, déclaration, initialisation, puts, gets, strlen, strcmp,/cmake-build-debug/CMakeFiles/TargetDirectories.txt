@@ -1,0 +1,13 @@
+E:/Cours/Formation/C/Hassan EL BAHI/Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/cmake-build-debug/CMakeFiles/main.dir
+E:/Cours/Formation/C/Hassan EL BAHI/Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/cmake-build-debug/CMakeFiles/Affichage-et-Ecriture_Affichage.dir
+E:/Cours/Formation/C/Hassan EL BAHI/Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/cmake-build-debug/CMakeFiles/Affichage-et-Ecriture_Ecriture.dir
+E:/Cours/Formation/C/Hassan EL BAHI/Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/cmake-build-debug/CMakeFiles/Fonctions_sur_les_chaines-strlen.dir
+E:/Cours/Formation/C/Hassan EL BAHI/Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/cmake-build-debug/CMakeFiles/Fonctions_sur_les_chaines-strcpy.dir
+E:/Cours/Formation/C/Hassan EL BAHI/Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/cmake-build-debug/CMakeFiles/Fonctions_sur_les_chaines-strncopy.dir
+E:/Cours/Formation/C/Hassan EL BAHI/Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/cmake-build-debug/CMakeFiles/Fonctions_sur_les_chaines-strcat.dir
+E:/Cours/Formation/C/Hassan EL BAHI/Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/cmake-build-debug/CMakeFiles/Fonctions_sur_les_chaines-strncat.dir
+E:/Cours/Formation/C/Hassan EL BAHI/Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/cmake-build-debug/CMakeFiles/Fonctions_sur_les_chaines-strcmp.dir
+E:/Cours/Formation/C/Hassan EL BAHI/Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/cmake-build-debug/CMakeFiles/Fonctions_sur_les_chaines-strrchr.dir
+E:/Cours/Formation/C/Hassan EL BAHI/Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/cmake-build-debug/CMakeFiles/Exercice_2.dir
+E:/Cours/Formation/C/Hassan EL BAHI/Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Cours/Formation/C/Hassan EL BAHI/Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/cmake-build-debug/CMakeFiles/rebuild_cache.dir
