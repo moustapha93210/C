@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Langage_C-4" targetName="boucle_do_while" />
+      <config projectName="Langage_C-4" targetName="plusGrand_plusPetit" />
+      <config projectName="Langage_C-4" targetName="main" />
+      <config projectName="Langage_C-4" targetName="somme_des_premier_entier_positif" />
+      <config projectName="Langage_C-4" targetName="boucle_do_while_exercice_3" />
+      <config projectName="Langage_C-4" targetName="table_de_multiplication" />
+      <config projectName="Langage_C-4" targetName="boucle_while" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e290140f-fa75-4986-9998-15d864655e4b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="1" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2fBzYVAx91BtcFqLFJyT5xAKuRj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.boucle_do_while.c.executor": "Run",
+    "C/C++ File.boucle_do_while_exercice_3.c.executor": "Run",
+    "C/C++ File.boucle_while.c.executor": "Run",
+    "C/C++ File.main.c.executor": "Run",
+    "C/C++ File.plusGrand_plusPetit.c.executor": "Run",
+    "C/C++ File.somme_des_premier_entier_positif.c.executor": "Run",
+    "C/C++ File.table_de_multiplication.c.executor": "Run",
+    "CMake Application.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "E:/Cours/Formation/C/Hassan EL BAHI/Langage C-5 - Les instructions de contrôle des boucles - break, continue et goto",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="C/C++ File.boucle_do_while_exercice_3.c">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="boucle_do_while" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Langage_C-4" TARGET_NAME="boucle_do_while" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Langage_C-4" RUN_TARGET_NAME="boucle_do_while">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="boucle_do_while_exercice_3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Langage_C-4" TARGET_NAME="boucle_do_while_exercice_3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Langage_C-4" RUN_TARGET_NAME="boucle_do_while_exercice_3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="boucle_while" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Langage_C-4" TARGET_NAME="boucle_while" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Langage_C-4" RUN_TARGET_NAME="boucle_while">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Langage_C-4" TARGET_NAME="main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Langage_C-4" RUN_TARGET_NAME="main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="plusGrand_plusPetit" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Langage_C-4" TARGET_NAME="plusGrand_plusPetit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Langage_C-4" RUN_TARGET_NAME="plusGrand_plusPetit">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="somme_des_premier_entier_positif" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Langage_C-4" TARGET_NAME="somme_des_premier_entier_positif" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Langage_C-4" RUN_TARGET_NAME="somme_des_premier_entier_positif">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="table_de_multiplication" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Langage_C-4" TARGET_NAME="table_de_multiplication" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Langage_C-4" RUN_TARGET_NAME="table_de_multiplication">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="boucle_do_while.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Langage C-4 - Structures répétitives Les boucles for, while, et do ... while" TARGET_NAME="boucle_do_while.c" CONFIG_NAME="boucle_do_while.c">
+      <option name="sourceFile" value="E:\Cours\Formation\C\Hassan EL BAHI\Langage C-4 - Structures répétitives  Les boucles  for, while, et do ... while\boucle_do_while.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="boucle_do_while_exercice_3.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Langage C-4 - Structures répétitives Les boucles for, while, et do ... while" TARGET_NAME="boucle_do_while_exercice_3.c" CONFIG_NAME="boucle_do_while_exercice_3.c">
+      <option name="sourceFile" value="E:\Cours\Formation\C\Hassan EL BAHI\Langage C-4 - Structures répétitives  Les boucles  for, while, et do ... while\boucle_do_while_exercice_3.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Langage C-4 - Structures répétitives Les boucles for, while, et do ... while" TARGET_NAME="main.c" CONFIG_NAME="main.c">
+      <option name="sourceFile" value="main.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="plusGrand_plusPetit.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Langage C-4 - Structures répétitives Les boucles for, while, et do ... while" TARGET_NAME="plusGrand_plusPetit.c" CONFIG_NAME="plusGrand_plusPetit.c">
+      <option name="sourceFile" value="E:\Cours\Formation\C\Hassan EL BAHI\Langage C-4 - Structures répétitives  Les boucles  for, while, et do ... while\plusGrand_plusPetit.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="somme_des_premier_entier_positif.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Langage C-4 - Structures répétitives Les boucles for, while, et do ... while" TARGET_NAME="somme_des_premier_entier_positif.c" CONFIG_NAME="somme_des_premier_entier_positif.c">
+      <option name="sourceFile" value="somme_des_premier_entier_positif.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="table_de_multiplication.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Langage C-4 - Structures répétitives Les boucles for, while, et do ... while" TARGET_NAME="table_de_multiplication.c" CONFIG_NAME="table_de_multiplication.c">
+      <option name="sourceFile" value="table_de_multiplication.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ File.boucle_do_while_exercice_3.c" />
+      <item itemvalue="C/C++ File.main.c" />
+      <item itemvalue="C/C++ File.table_de_multiplication.c" />
+      <item itemvalue="C/C++ File.plusGrand_plusPetit.c" />
+      <item itemvalue="C/C++ File.somme_des_premier_entier_positif.c" />
+      <item itemvalue="C/C++ File.boucle_do_while.c" />
+      <item itemvalue="CMake Application.boucle_do_while" />
+      <item itemvalue="CMake Application.boucle_do_while_exercice_3" />
+      <item itemvalue="CMake Application.boucle_while" />
+      <item itemvalue="CMake Application.main" />
+      <item itemvalue="CMake Application.plusGrand_plusPetit" />
+      <item itemvalue="CMake Application.somme_des_premier_entier_positif" />
+      <item itemvalue="CMake Application.table_de_multiplication" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e290140f-fa75-4986-9998-15d864655e4b" name="Changes" comment="" />
+      <created>1713289306194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713289306194</updated>
+      <workItem from="1713289307748" duration="2462000" />
+      <workItem from="1716765499978" duration="1272000" />
+      <workItem from="1718903597851" duration="2395000" />
+      <workItem from="1722094261442" duration="3120000" />
+      <workItem from="1723028589172" duration="5113000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+</project>
