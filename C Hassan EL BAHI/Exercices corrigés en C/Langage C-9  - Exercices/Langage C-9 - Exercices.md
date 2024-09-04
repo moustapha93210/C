@@ -1,6 +1,8 @@
 
 # Exercice #91
 
+Écrire un programme en C qui permet de saisir et afficher une chaîne de caractère.
+
 ``` C
 
 ```

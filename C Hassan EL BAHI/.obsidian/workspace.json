@@ -13,19 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/Exercices - Langage C-9  Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp, ....md",
+                "file": "Exercices corrigés en C/Langage C-9  - Exercices/Langage C-9 - Exercices.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bc86611ae6cfa8a3",
+            "id": "b291ecb071b50f68",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/img - Langage C-9/Pasted image 20240902021929.png"
+                "file": "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/Langage C-9  Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp, ....md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -79,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 218.5,
+    "collapsed": true
   },
   "right": {
     "id": "92e50c9c45b2b22a",
@@ -95,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/Exercices - Langage C-9  Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp, ....md",
+                "file": "Exercices corrigés en C/Langage C-9  - Exercices/Langage C-9 - Exercices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/Exercices - Langage C-9  Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp, ....md",
+                "file": "Exercices corrigés en C/Langage C-9  - Exercices/Langage C-9 - Exercices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/Exercices - Langage C-9  Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp, ....md"
+                "file": "Exercices corrigés en C/Langage C-9  - Exercices/Langage C-9 - Exercices.md"
               }
             }
           }
@@ -156,11 +159,50 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
+  "floating": {
+    "id": "707756667c3a57ac",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b8896c7f9416391b",
+        "type": "window",
+        "children": [
+          {
+            "id": "d2953cfa9278638f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1f9e3281c612c542",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Exercices corrigés en C/Langage C-9  - Exercices/Langage C-9 - Exercices corrigés.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 768,
+        "y": 0,
+        "width": 768,
+        "height": 816,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "44e6e3ef43892fd2",
   "lastOpenFiles": [
+    "Exercices corrigés en C/Langage C-9  - Exercices/Langage C-9 - Exercices corrigés.md",
+    "Exercices corrigés en C/Langage C-9  - Exercices/Langage C-9 - Exercices.md",
     "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/Langage C-9  Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp, ....md",
-    "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/Exercices - Langage C-9  Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp, ....md",
     "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/img - Langage C-9/Pasted image 20240902021929.png",
+    "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/Exercices - Langage C-9  Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp, ....md",
     "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/img - Langage C-9/Pasted image 20240902031605.png",
     "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/img - Langage C-9/Pasted image 20240902025535.png",
     "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/img - Langage C-9/Pasted image 20240902025149.png",
@@ -172,8 +214,6 @@
     "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/img - Langage C-9/Pasted image 20240902022713.png",
     "Langage C-8 - Pointeurs, passage par valeur, passage par adresse et arithmétique des pointeurs/Langage C-8 - Pointeurs, passage par valeur, passage par adresse et arithmétique des pointeurs.md",
     "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/img - Langage C-9",
-    "Exercices corrigés en C/Langage C-9  - Exercices/Langage C-9 - Exercices.md",
-    "Exercices corrigés en C/Langage C-9  - Exercices/Langage C-9 - Exercices corrigés.md",
     "Langage C-8 - Pointeurs, passage par valeur, passage par adresse et arithmétique des pointeurs/Exercices - Langage C-8 - Pointeurs, passage par valeur, passage par adresse et arithmétique des pointeurs.md",
     "Exercices corrigés en C/Langage C-8 - Exercices/Langage C-8 - Exercices.md",
     "Exercices corrigés en C/Langage C-8 - Exercices/Langages C-8 - Exercices corrigés.md",
