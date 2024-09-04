@@ -16,6 +16,7 @@ int main(){
         scanf(" %c", &c[i]);
     */
 
+
     /*
      * Méthode 2 ( ne prend pas en charge les espaces )
     printf("Veuillez saisir une chaine : \n");
@@ -23,7 +24,7 @@ int main(){
 
     printf("%s", c);
     */
-
+    
 
     // Méthode 3
     printf("Veuillez saisir une chaine : \n");
