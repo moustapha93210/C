@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Exercice_92.exe"
+			"path" : "main.exe"
 		},
 		{
-			"path" : "Exercice_92.pdb"
+			"path" : "main.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -56,7 +56,7 @@
 			]
 		}
 	],
-	"id" : "Exercice_92::@6890427a1f51a3e7e1df",
+	"id" : "main::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -76,8 +76,8 @@
 		],
 		"language" : "C"
 	},
-	"name" : "Exercice_92",
-	"nameOnDisk" : "Exercice_92.exe",
+	"name" : "main",
+	"nameOnDisk" : "main.exe",
 	"paths" : 
 	{
 		"build" : ".",
