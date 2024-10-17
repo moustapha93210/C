@@ -220,17 +220,90 @@ int main(){
 
 # Exercice #96
 
-``` C
+Écrire un programme qui vérifie si une chaîne est un palindrome
 
+``` C
+#include <stdio.h>  
+#include <string.h>  
+  
+int main() {  
+  
+    char M[20];  
+    char R[20];  
+    int n;  
+  
+  
+  
+    printf("Veuillez saisir une chaine : ");  
+    gets(M);  
+  
+    strcpy(R, M);  
+  
+    strrev(R);  
+  
+    n = strcmp(M, R);  
+  
+    if(n == 0)  
+        printf("La chaine est palindromique");  
+    else  
+        printf("La chaine n'est pas un palindrome");  
+  
+
+  
+  
+    return 0;  
+}
 ```
 
 # Exercice #97
 
-``` C
+Écrire un programme qui lit deux chaînes A et B sur le clavier et ajoute la chaîne B à la fin de A sans utiliser la fonction de bibliothèque strcat(). Utiliser deux pointeurs PA et PB pour effectuer l'opération.
 
+``` C
+#include <stdio.h>  
+#include <string.h>  
+  
+int main() {  
+  
+    char A[100], B[100];  
+    char *PA = A;  
+  
+    char *PB = B;  
+  
+    // Saisie et lecture de A  
+    printf("Entrer la premiere chaine : ");  
+    gets(A);  
+  
+  
+  
+    // Saisie et lecture de B  
+    printf("Entrer la deuxieme chaine : ");  
+    gets(B);  
+  
+  
+    PA = PA + strlen(A);  
+  
+    while(*PB != '\0'){  
+  
+        *PA = *PB;  
+        PA++;  
+        PB++;  
+  
+    }  
+  
+    *PA = '\0';  
+  
+    printf("La chaine concatenee est : %s", A);  
+  
+  
+  
+    return 0;  
+}
 ```
 
 # Exercice #98
+
+Écrire un programme contenant une fonction qui supprime les occurrences d'un caractère dans une chaîne.
 
 ``` C
 
