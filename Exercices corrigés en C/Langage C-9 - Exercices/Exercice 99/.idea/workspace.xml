@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Exercice_99" targetName="programme_ChaineResultat" />
+      <config projectName="Exercice_99" targetName="Exercice_99" />
+      <config projectName="Exercice_99" targetName="programme_ChainePartieDeChaine" />
+      <config projectName="Exercice_99" targetName="main" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1db7d5b-f888-460e-b716-94bbd4fc37a9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../C Hassan EL BAHI/.obsidian/core-plugins.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../C Hassan EL BAHI/.obsidian/core-plugins.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C Hassan EL BAHI/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../C Hassan EL BAHI/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C Hassan EL BAHI/Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/Langage C-9  Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp, ....md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../C Hassan EL BAHI/Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/Langage C-9  Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp, ....md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercice 95/cmake-build-debug/.cmake/api/v1/reply/index-2024-09-05T01-20-16-0281.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercice 95/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercice 95/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="2.2" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2nYhSxOm7wVaw2unNEeqd68DvB5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.programme_ChainePartieDeChaine.c.executor": "Run",
+    "C/C++ File.programme_ChaineResultat.c.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "MINGW64",
+    "last_opened_file_path": "E:/Cours/Formation/C/Hassan EL BAHI/Exercices corrigés en C/Langage C-9 - Exercices/Exercice 99/programme_ChaineResultat.c",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="C/C++ File.programme_ChaineResultat.c">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Exercice_99" TARGET_NAME="main.c" CONFIG_NAME="main.c">
+      <option name="sourceFile" value="E:\Cours\Formation\C\Hassan EL BAHI\Exercices corrigés en C\Langage C-9 - Exercices\Exercice 99\main.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="programme_ChainePartieDeChaine.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Exercice_99" TARGET_NAME="programme_ChainePartieDeChaine.c" CONFIG_NAME="programme_ChainePartieDeChaine.c">
+      <option name="sourceFile" value="E:\Cours\Formation\C\Hassan EL BAHI\Exercices corrigés en C\Langage C-9 - Exercices\Exercice 99\programme_ChainePartieDeChaine.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="programme_ChaineResultat.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Exercice_99" TARGET_NAME="programme_ChaineResultat.c" CONFIG_NAME="programme_ChaineResultat.c">
+      <option name="sourceFile" value="E:\Cours\Formation\C\Hassan EL BAHI\Exercices corrigés en C\Langage C-9 - Exercices\Exercice 99\programme_ChaineResultat.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ File.programme_ChaineResultat.c" />
+      <item itemvalue="C/C++ File.programme_ChainePartieDeChaine.c" />
+      <item itemvalue="C/C++ File.main.c" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1db7d5b-f888-460e-b716-94bbd4fc37a9" name="Changes" comment="" />
+      <created>1729155919969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729155919969</updated>
+      <workItem from="1729155921302" duration="2989000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
