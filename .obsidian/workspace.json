@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "3d3fa3d9ac1fb8ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "b94d47593adb9dc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe126ced5915e20a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C Hassan EL BAHI/Exercices corrigés en C/Langage C-9  - Exercices/Langage C-9 - Exercices.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da53c15d00222cb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3d394b435414b79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cc05f9b5f0ea5d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f51a5fca09874e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "076f30b0019b69ef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "90f4a6cab0478f18",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7d9f1778fcc1f82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c9063c0292cd5bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C Hassan EL BAHI/Exercices corrigés en C/Langage C-9  - Exercices/Langage C-9 - Exercices.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc2ae1e78e4e92da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C Hassan EL BAHI/Exercices corrigés en C/Langage C-9  - Exercices/Langage C-9 - Exercices.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ae87c6aae336d1b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7cc2103f974b1284",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C Hassan EL BAHI/Exercices corrigés en C/Langage C-9  - Exercices/Langage C-9 - Exercices.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "5cc05f9b5f0ea5d6",
+  "lastOpenFiles": [
+    "C Hassan EL BAHI/Exercices corrigés en C/Langage C-9  - Exercices/Langage C-9 - Exercices corrigés.md",
+    "C Hassan EL BAHI/Exercices corrigés en C/Langage C-9  - Exercices/Langage C-9 - Exercices.md"
+  ]
+}

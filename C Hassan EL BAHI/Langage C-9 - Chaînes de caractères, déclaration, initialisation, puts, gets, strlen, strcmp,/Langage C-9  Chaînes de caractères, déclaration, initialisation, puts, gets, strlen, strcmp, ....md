@@ -1,5 +1,4 @@
 
-Langage_C9_Chaînes_de_caractères_déclaration_initialisation_puts_gets_strlen_strcmp
 En C, il n'existe pas de type de variable pour les chaînes de caractères comme pour les entiers ou les caractères. 
 
 # Chaîne de caractères - tableau de caractères
@@ -124,9 +123,13 @@ chaine[6] = 'n';
 ```
 
 ``` C
-chaine = "Toto";// Invalide
+char chaine[] = "Hello";// Invalide
 ```
 - Cette affectation est fausse. Car on déclare la variable `chaine[]` de type `char` et on ne définie pas sa taille.
+
+``` C
+chaine = "Toto";// Invalide
+```
 - `chaine = "Toto";` : Cette ligne est fausse car `chaine` sans crochet est un pointeur qui pointe vers la première ligne du tableau qui est `&chaine[0]`. Étant donné que `chaine` est pointeur et qu'on lui affecte une adresse et non une chaîne de caractère (`"Hello"`), la ligne de code est fausse.
 
 | Indice  | 0   | 1   | 2   | 3   | 4   | 5   |
@@ -750,7 +753,7 @@ printf("%d", strcmp(a, c) );
 ```
 - `a` : "Ali".
 - `c` : "ali".
-- Pour connaître le résultat de la comparaison nous allons regarder le code ASCII de `'A'` (65) et celui de `a` (97). La valeur de `A` < la valeur de `a`. Donc ici, la valeur ASCII du premier caractère de la première chaîne est **inférieure** à celle de la deuxième chaîne, c'est pourquoi le résultat sera négatif (-1).
+- Pour connaître le résultat de la comparaison nous allons regarder le code ASCII de `'A'` (65) et celui de `a` (97). La valeur ASCII de `A` < la valeur ASCII de `a`. Donc ici, la valeur ASCII du premier caractère de la première chaîne est **inférieure** à celle de la deuxième chaîne, c'est pourquoi le résultat sera négatif (-1).
 
 ![[Pasted image 20240902014309.png]]
 
@@ -797,7 +800,7 @@ printf("%s\n", strchr(a, 'W') );
 ```
 - `a` : la chaîne ou l'on va chercher l'occurrence.
 - `'W'` : l'occurrence que l'on doit rechercher qui est un caractère.
-- Nous allons afficher la première occurrence de `'W'`. Dans notre cas elle existe donc on va afficher tout les lettres qui se trouve après `'W'` ('o', 'r', 'l', 'd'), Donc ce qui va être afficher est :
+- Nous allons afficher la première occurrence de `'W'`. Dans notre cas elle existe donc on va afficher `'W'` et toutes les lettres qui se trouve après `'W'` ('o', 'r', 'l', 'd'), Donc ce qui va être afficher est :
 
 ![[Pasted image 20240902021132.png]]
 
@@ -899,7 +902,7 @@ int main(){
 ```
 
 ``` C
-printf("%s\n", strrchr(a, "lo") ); 
+printf("%s\n", strstr(a, "lo") ); 
 ```
 - `a` : la chaîne ou l'on va chercher l'occurrence.
 - `"lo"` : l'occurrence que l'on doit rechercher qui est une chaîne.
@@ -1047,7 +1050,7 @@ char c[] = "GATE2020";
 ``` C
 char *p = c;
 ```
-- `p = &0c`
+- `p = &c[0]`
 
 ``` C
 printf("%s", p + p[3] - p[1]);

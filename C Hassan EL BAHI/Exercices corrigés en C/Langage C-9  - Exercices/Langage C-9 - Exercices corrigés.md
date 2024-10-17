@@ -306,17 +306,154 @@ int main() {
 Écrire un programme contenant une fonction qui supprime les occurrences d'un caractère dans une chaîne.
 
 ``` C
-
+#include <stdio.h>  
+#include <string.h>  
+  
+char * suppression(char * C, char S){  
+  
+    int i, j;  
+    int len = strlen(C);  
+  
+    // Suppression de l'occurence choisie par l'utilisateur  
+    for(i = 0; i < len; i++){  
+  
+        if(C[i] == S){  
+  
+            // Décallage à gauche  
+            for(j = i; j < len; j++)  
+                C[j] = C[j+1];  
+  
+            i--;  
+            len--;  
+        }  
+    }  
+  
+    return C;  
+}  
+  
+  
+int main() {  
+  
+    char C[100];  
+    char S;  
+  
+  
+    // Saisie, lecture et affectation de la taille de la C  
+    printf("Veuillez saisir une C : ");  
+    gets(C);  
+  
+  
+    // Saisie, lecture et affectation de la taille de la C  
+    printf("Veuillez choisir une S a supprimer : ");  
+    scanf("%c", &S);  
+  
+    char * R = suppression(C, S);  
+  
+    printf("La chaine apres la suppression de '%c' : %s", S, C);  
+  
+  
+    return 0;  
+}
 ```
 
 # Exercice #99
 
-``` C
+Dans le programme suivant, que mettriez-vous à la place de "**?**" pour afficher "**matique**".
 
+``` C
+#include <stdio.h>
+
+int main(){
+
+	char T[] = "Informatique";
+	
+	printf("%s", ?);
+	
+	
+	return 0;
+}
 ```
+
+``` C
+#include <stdio.h>    
+  
+int main(){  
+  
+    char T[] = "Informatique";  
+  
+    printf("%s", T + 5 );  
+  
+  
+    return 0;  
+}
+```
+
+
+Prédire le résultat du programme suivant, nous supposons qu'un caractère prend **1 octet** et le pointeur prend **4 octets**.
+
+``` C
+#include <stdio.h>
+
+int main(){
+
+	char *C1 = "Quiz";
+	char C2[10] = "Quiz";
+	
+	printf("%d", sizeof(C1) );
+	printf("%d", sizeof(C2) );
+	
+	
+	return 0;
+}
+```
+
+``` C
+printf("%d", sizeof(C1) );
+```
+- Le pointeur `*C1` est un pointeur qui pointe vers la première case du tableau qui contient le mot "Quiz" donc le résultat de `sizeof(C1)` est de **4 octets**.
+  
+``` C
+printf("%d", sizeof(C2) );
+```
+- `C2[10]` est un tableau de taille 10 et qui contient le mot "Quiz", l'ordinateur va réserver un espace mémoire de 10 octet pour le tableau `C2[10]`. Donc le résultat est **10 octets**.
+
+**C2**
+
+|  Q  |  U  |  I  |  Z  | \0  |     |     |     |     |     |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |
 
 # Exercice #100
 
-``` C
+Un crime a été commis dans un centre commercial et le détective chargé de l'enquête a récupéré un échantillon d'ADN sur le lieu du crime. Après analyse en laboratoire, il a été confirmé que cet cet ADN appartient au coupable. Le détective possède également des échantillons d'ADN de quatre suspects qui se trouvaient sur le lieu du crime, et il doit maintenant utiliser ces échantillons pour identifier le coupable.
+Écrire un programme qui va aider le détective à trouver le coupable.
 
+``` C
+#include <stdio.h>  
+#include <string.h>  
+  
+int main() {  
+  
+    char ADN_ali[100] = "CCTGGAGGGTGGCCCCACCGGCCGAGACAGCGAGCGTATGCAGGAAGCGGCAGGAATAAGGAAAAGCAGCADN";  
+    char ADN_anas[100] = "CTCCTGATGCTCCTCGCTTGGTGGTTTGAGTGGACCTCCCAGGCCAGTGCCGGGCCCCTCACGAGGAGAGGADN";  
+    char ADN_mehdi[100] = "AAGCTCGGGAGGTGGCCATAGCGGCAGGAAGGCGCACCCCCCCAGTACTCCGCGCGCCGGGACAGAATGCCADN";  
+    char ADN_sara[100] = "CTGCAGGAACTTCTTCTGGAGTACTTCTCCTCCTGCAAATAAAACCTCACCCATGAATGCTCACGCAAG";  
+  
+    char ADN_coupable[] = "CATA";  
+  
+    if(strstr(ADN_ali, ADN_coupable) != '\0')  
+        printf("Le coupable est Ali !");  
+  
+    if(strstr(ADN_anas, ADN_coupable) != '\0')  
+        printf("Le coupable est Anas !");  
+  
+    if(strstr(ADN_mehdi, ADN_coupable) != '\0')  
+        printf("Le coupable est Mehdi !");  
+  
+    if(strstr(ADN_sara, ADN_coupable) != '\0')  
+        printf("Le coupable est Sara !");  
+  
+  
+    return 0;  
+}
 ```
