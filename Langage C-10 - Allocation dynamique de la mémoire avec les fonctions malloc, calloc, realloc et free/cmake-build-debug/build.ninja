@@ -73,6 +73,39 @@ build main.exe: C_EXECUTABLE_LINKER__main_Debug CMakeFiles/main.dir/main.c.obj
   TARGET_IMPLIB = libmain.dll.a
   TARGET_PDB = main.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target malloc
+
+
+#############################################
+# Order-only phony target for malloc
+
+build cmake_object_order_depends_target_malloc: phony || .
+
+build CMakeFiles/malloc.dir/malloc.c.obj: C_COMPILER__malloc_unscanned_Debug E$:/Cours/Formation/C/Hassan$ EL$ BAHI/Langage$ C-10$ -$ Allocation$ dynamique$ de$ la$ mémoire$ avec$ les$ fonctions$ malloc,$ calloc,$ realloc$ et$ free/malloc.c || cmake_object_order_depends_target_malloc
+  DEP_FILE = CMakeFiles\malloc.dir\malloc.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\malloc.dir
+  OBJECT_FILE_DIR = CMakeFiles\malloc.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target malloc
+
+
+#############################################
+# Link the executable malloc.exe
+
+build malloc.exe: C_EXECUTABLE_LINKER__malloc_Debug CMakeFiles/malloc.dir/malloc.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\malloc.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = malloc.exe
+  TARGET_IMPLIB = libmalloc.dll.a
+  TARGET_PDB = malloc.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -101,6 +134,8 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 build main: phony main.exe
 
+build malloc: phony malloc.exe
+
 # =============================================================================
 # Folder targets.
 
@@ -109,7 +144,7 @@ build main: phony main.exe
 #############################################
 # Folder: E:/Cours/Formation/C/Hassan EL BAHI/Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free/cmake-build-debug
 
-build all: phony main.exe
+build all: phony main.exe malloc.exe
 
 # =============================================================================
 # Built-in targets

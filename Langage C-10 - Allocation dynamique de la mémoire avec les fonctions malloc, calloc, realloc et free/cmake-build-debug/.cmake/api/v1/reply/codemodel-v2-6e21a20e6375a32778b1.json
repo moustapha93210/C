@@ -15,7 +15,8 @@
 					"source" : ".",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -30,7 +31,8 @@
 					"name" : "Langage_C-10",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -41,6 +43,13 @@
 					"id" : "main::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-main-Debug-6ed2049a55206f10c73f.json",
 					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "malloc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-malloc-Debug-175e9c3b96e2f0f459b3.json",
+					"name" : "malloc",
 					"projectIndex" : 0
 				}
 			]
