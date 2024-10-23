@@ -1,4 +1,5 @@
 E:/Cours/Formation/C/Hassan EL BAHI/Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free/cmake-build-debug/CMakeFiles/main.dir
 E:/Cours/Formation/C/Hassan EL BAHI/Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free/cmake-build-debug/CMakeFiles/malloc.dir
+E:/Cours/Formation/C/Hassan EL BAHI/Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free/cmake-build-debug/CMakeFiles/Exercice.dir
 E:/Cours/Formation/C/Hassan EL BAHI/Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free/cmake-build-debug/CMakeFiles/edit_cache.dir
 E:/Cours/Formation/C/Hassan EL BAHI/Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free/cmake-build-debug/CMakeFiles/rebuild_cache.dir

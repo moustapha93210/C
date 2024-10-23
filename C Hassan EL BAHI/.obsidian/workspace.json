@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a4996fc8dae6a283",
+            "id": "1cc4b53bb6999eef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Langage C-10 -/Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free.md",
+                "file": "Exercices corrigés en C/Langage C-10 - Exercices/Langage C-10 - Exercices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free"
+              "title": "Langage C-10 - Exercices"
             }
           }
         ]
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 218.5,
+    "collapsed": true
   },
   "right": {
     "id": "92e50c9c45b2b22a",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Langage C-10 -/Exercices - Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free.md",
+                "file": "Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free/Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Exercices - Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free"
+              "title": "Rétrolien pour Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free"
             }
           },
           {
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Langage C-10 -/Exercices - Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free.md",
+                "file": "Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free/Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Exercices - Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free"
+              "title": "Liens sortants de Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free"
             }
           },
           {
@@ -139,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Langage C-10 -/Exercices - Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free.md"
+                "file": "Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free/Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free.md"
               },
               "icon": "lucide-list",
-              "title": "Plan de Exercices - Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free"
+              "title": "Plan de Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free"
             }
           }
         ]
@@ -167,70 +168,74 @@
     "type": "floating",
     "children": [
       {
-        "id": "e05bb05f038d4b4e",
+        "id": "5d868a5cf7404e54",
         "type": "window",
         "children": [
           {
-            "id": "c86f47cb46c0a629",
+            "id": "8ed8226317beb9d4",
             "type": "tabs",
             "children": [
               {
-                "id": "036d378017303d0f",
+                "id": "29a1dcdb7e1cd72f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Langage C-10 -/Exercices - Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free.md",
+                    "file": "Exercices corrigés en C/Langage C-10 - Exercices/Langage C-10 - Exercices Corrigés.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Exercices - Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free"
+                  "title": "Langage C-10 - Exercices Corrigés"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 767,
+        "x": 765,
         "y": 0,
-        "width": 769,
+        "width": 771,
         "height": 816,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "036d378017303d0f",
+  "active": "1cc4b53bb6999eef",
   "lastOpenFiles": [
-    "Langage C-10 -/Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free.md",
-    "Langage C-10 -/Exercices - Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free.md",
+    "Exercices corrigés en C/Langage C-10 - Exercices/Langage C-10 - Exercices Corrigés.md",
+    "Exercices corrigés en C/Langage C-10 - Exercices/Langage C-10 - Exercices.md",
+    "Exercices corrigés en C/Langage C-9  - Exercices/Langage C-9 - Exercices.md",
+    "Exercices corrigés en C/Langage C-10 - Exercices/Langage C-10 - Exercices corrigés.md",
+    "Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free/Exercices - Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free.md",
+    "Exercices corrigés en C/Langage C-9  - Exercices/Langage C-9 - Exercices corrigés.md",
     "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/Langage C-9  Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp, ....md",
     "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/Exercices - Langage C-9  Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp, ....md",
-    "Exercices corrigés en C/Langage C-9  - Exercices/Langage C-9 - Exercices corrigés.md",
-    "Exercices corrigés en C/Langage C-9  - Exercices/Langage C-9 - Exercices.md",
-    "Langage C-10 -/img - Langage C-10",
-    "Langage C-10 -",
+    "Exercices corrigés en C/Langage C-8 - Exercices/Langages C-8 - Exercices corrigés.md",
+    "Exercices corrigés en C/Langage C-8 - Exercices/Langage C-8 - Exercices.md",
+    "Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free/Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free.md",
+    "Exercices corrigés en C/Langage C-10 - Exercices",
+    "Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free/img - Langage C-10/Pasted image 20241020181933.png",
+    "Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free/img - Langage C-10/Pasted image 20241020183642.png",
+    "Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free/img - Langage C-10/Pasted image 20241020183615.png",
+    "Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free/img - Langage C-10/Pasted image 20241020183546.png",
+    "Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free/img - Langage C-10/Pasted image 20241020182039.png",
+    "Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free/img - Langage C-10/Pasted image 20241020172145.png",
+    "Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free/img - Langage C-10/Pasted image 20241020172218.png",
+    "Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free/img - Langage C-10/Pasted image 20241020181120.png",
+    "Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free/img - Langage C-10/Pasted image 20241020180041.png",
+    "Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free/img - Langage C-10/Pasted image 20241020180006.png",
+    "Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free/img - Langage C-10",
+    "Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free",
     "Exercices corrigés en C/Langage C-6 - Exercices/Langages C-6 Exercices.md",
     "Exercices corrigés en C/Langage C-4 - Exercices/Langage C-4 - Exercices.md",
-    "Exercices corrigés en C/Langage C-8 - Exercices/Langage C-8 - Exercices.md",
     "Exercices corrigés en C/Langage C-6 - Exercices/Langages C-6 - Exercices corrigés.md",
     "Exercices corrigés en C/Langage C-3 - Exercices/Langage C-3 - Exercices corrigés.md",
     "Exercices corrigés en C/Langage C-4 - Exercices/Langage C-4 - Exercices corrigés.md",
-    "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/img - Langage C-9/Pasted image 20240901231636.png",
-    "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/img - Langage C-9/Pasted image 20240901231529.png",
-    "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/img - Langage C-9/Pasted image 20240901231340.png",
-    "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/img - Langage C-9/Pasted image 20240901230629.png",
-    "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/img - Langage C-9/Pasted image 20240901230501.png",
-    "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/img - Langage C-9/Pasted image 20240902021929.png",
-    "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/img - Langage C-9/Pasted image 20240902031605.png",
-    "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/img - Langage C-9/Pasted image 20240902025535.png",
-    "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/img - Langage C-9/Pasted image 20240902025149.png",
-    "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/img - Langage C-9/Pasted image 20240902024716.png",
     "Langage C-8 - Pointeurs, passage par valeur, passage par adresse et arithmétique des pointeurs/Langage C-8 - Pointeurs, passage par valeur, passage par adresse et arithmétique des pointeurs.md",
     "Langage C-9 - Chaînes de caractères, déclaration, initialisation, puts, gets, strlen, strcmp,/img - Langage C-9",
     "Langage C-8 - Pointeurs, passage par valeur, passage par adresse et arithmétique des pointeurs/Exercices - Langage C-8 - Pointeurs, passage par valeur, passage par adresse et arithmétique des pointeurs.md",
-    "Exercices corrigés en C/Langage C-8 - Exercices/Langages C-8 - Exercices corrigés.md",
     "Exercices corrigés en C/Langage C-7 - Exercices/Langage C-7 - Exercices corrigés.md",
     "Exercices corrigés en C/Langage C-7 - Exercices/Langage C-7 - Exercices.md",
     "Exercices corrigés en C/Langage C-8 - Exercices",
@@ -242,11 +247,8 @@
     "Langage C-2 - Déclaration, affectation, Printf, Scanf, structure d'un programme et les opérateurs/Langage C-2 - Déclaration, affectation, Printf, Scanf, structure d'un programme et les opérateurs.md",
     "Exercices corrigés en C/Langage C-6 - Exercices",
     "Langage C-4 - Structures répétitives  Les boucles  for, while, et do ... while/Langage C-4 - Structures répétitives  Les boucles  for, while, et do ... while.md",
-    "Exercices corrigés en C/Langage C-3 - Exercices/Langage C-3 - Exercices.md",
     "Exercices corrigés en C/Langage C-4 - Exercices",
-    "Exercices corrigés en C/Langage C-2 - Exercices/Langage C-2 - Exercices.md",
     "Exercices corrigés en C/Langage C-3 - Exercices",
-    "Exercices corrigés en C/Langage C-2 - Exercices/Nouveau Document texte.txt",
-    "Exercices corrigés en C/Langage C-2 - Exercices"
+    "Exercices corrigés en C/Langage C-2 - Exercices/Nouveau Document texte.txt"
   ]
 }

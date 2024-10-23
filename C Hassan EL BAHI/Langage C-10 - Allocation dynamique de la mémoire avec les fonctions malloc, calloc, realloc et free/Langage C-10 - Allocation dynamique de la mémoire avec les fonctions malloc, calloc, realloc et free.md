@@ -353,10 +353,117 @@ P = realloc(P, 2 * sizeof(int) );
 ![[Pasted image 20241020183642.png]]
 
 
+## Attention
+
+Après avoir utilisé "malloc()", "calloc()" ou "realloc()", il faut vérifier si la valeur renvoyé ou le pointeur utilisé retourne la valeur "NULL" ou non.
+
+``` C
+#include <stdio.h>  
+#include <stdlib.h>  
+  
+int main() {  
+  
+    int *y = calloc(3, sizeof(int) );  
+  
+    if(y == NULL){  
+  
+        printf("La memoire n'est pas alloue.\n");  
+        exit(0);  
+  
+    }  
+    else {  
+  
+        printf("%d\n", *(y + 0));  
+        printf("%d\n", *(y + 1));  
+        printf("%d\n\n", *(y + 2));  
+  
+        *(y + 0) = 1;  
+        *(y + 1) = 3;  
+        *(y + 2) = -9;  
+  
+        printf("%d\n", *(y + 0));  
+        printf("%d\n", *(y + 1));  
+        printf("%d\n\n", *(y + 2));  
+  
+    }  
+  
+  
+  
+    return 0;  
+}
+```
+
+``` C
+if(y == NULL){  
+  
+    printf("La memoire n'est pas alloue.\n");  
+    exit(0);  
+  
+}  
+```
+- Si ça valeur est "NULL" on doit arrêter le programme avec `exti(0);`.
+
+
 
 ## Exercice
 
 Écrire un programme qui alloue dynamiquement la mémoire (avec malloc() ou calloc() ) d'un tableau d n éléments (n doit être saisi par l'utilisateur). Ensuite, le programme calcule et affiche la somme et la moyenne des éléments du tableau (N'oubliez pas de libérer de l'espace mémoire réservé avant la fin du programme).
 
-
-(25:52)
+``` C
+#include <stdio.h>  
+#include <stdlib.h>  
+  
+int main() {  
+  
+    int n, i;  
+    float S, M;  
+  
+    // Saisie de la taille du tableau  
+    printf("Veuillez saisir la taille du tableau : ");  
+    scanf("%d", &n);  
+  
+  
+    // Réservation dynamique de la mémoire en fonction de la taille du tabelau avec "malloc()" et "calloc()"  
+    //int *T = calloc(n, sizeof(float));    float *T = malloc(n * sizeof(float) );  
+  
+    if(T == NULL){  
+  
+        printf("La memoire n'est pas alloue.\n");  
+        exit(0);  
+  
+    }  
+    else {  
+  
+        // Saisie des éléments du tableau  
+        for(i = 0; i < n; i++){  
+  
+            printf("Entrer l'element T[%d] = ", i+1);  
+            scanf("%f", T+i);  
+  
+        }  
+  
+  
+        // Calcul de la somme des éléments du tableau  
+        S = 0;  
+  
+        for(i = 0; i < n; i++)  
+            S = S + *(T+i);  
+  
+        // Calcul de la moyenne du tableau  
+        M = S / n;  
+  
+  
+        // Affichage de la somme et de la moyenne du tableau  
+        printf("La somme des elements du tableau est : %.2f\n", S);  
+        printf("La moyenne des elements du tableau est : %.2f\n", M);  
+  
+  
+        // Libération de la mémoire alloué  
+        free(T);  
+    }  
+  
+  
+  
+    return 0;  
+}
+```

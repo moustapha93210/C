@@ -106,6 +106,39 @@ build malloc.exe: C_EXECUTABLE_LINKER__malloc_Debug CMakeFiles/malloc.dir/malloc
   TARGET_IMPLIB = libmalloc.dll.a
   TARGET_PDB = malloc.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Exercice
+
+
+#############################################
+# Order-only phony target for Exercice
+
+build cmake_object_order_depends_target_Exercice: phony || .
+
+build CMakeFiles/Exercice.dir/Exercice.c.obj: C_COMPILER__Exercice_unscanned_Debug E$:/Cours/Formation/C/Hassan$ EL$ BAHI/Langage$ C-10$ -$ Allocation$ dynamique$ de$ la$ mémoire$ avec$ les$ fonctions$ malloc,$ calloc,$ realloc$ et$ free/Exercice.c || cmake_object_order_depends_target_Exercice
+  DEP_FILE = CMakeFiles\Exercice.dir\Exercice.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Exercice.dir
+  OBJECT_FILE_DIR = CMakeFiles\Exercice.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Exercice
+
+
+#############################################
+# Link the executable Exercice.exe
+
+build Exercice.exe: C_EXECUTABLE_LINKER__Exercice_Debug CMakeFiles/Exercice.dir/Exercice.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Exercice.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Exercice.exe
+  TARGET_IMPLIB = libExercice.dll.a
+  TARGET_PDB = Exercice.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -132,6 +165,8 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
+build Exercice: phony Exercice.exe
+
 build main: phony main.exe
 
 build malloc: phony malloc.exe
@@ -144,7 +179,7 @@ build malloc: phony malloc.exe
 #############################################
 # Folder: E:/Cours/Formation/C/Hassan EL BAHI/Langage C-10 - Allocation dynamique de la mémoire avec les fonctions malloc, calloc, realloc et free/cmake-build-debug
 
-build all: phony main.exe malloc.exe
+build all: phony main.exe malloc.exe Exercice.exe
 
 # =============================================================================
 # Built-in targets
