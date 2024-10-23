@@ -25,6 +25,11 @@ int main() {
     else
         printf("Ni profit, ni perte.");
 
+    free(pv);
+    free(pr);
+    free(benefice);
+    free(perte);
+
 
 
 

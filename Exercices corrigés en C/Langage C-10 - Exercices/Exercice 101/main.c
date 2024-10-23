@@ -23,6 +23,10 @@ int main() {
         printf("Ni profit ni perte");
 
 
+    free(pv);
+    free(pr);
+    free(p);
+
 
 
     return 0;
