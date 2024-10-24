@@ -9,8 +9,15 @@ int main() {
 
 
     // Saisie et lecture de 'n'
+    recn:
     printf("Veuillez saisir n : ");
-    scanf("%d", n);
+    if(scanf("%d", n) != 1 || *n <= 0){
+
+        printf("Erreur ! Veuillez choisir un nombre positif.\n");
+        while(getchar() != '\n');// Vide le buffer d'entrée
+        goto recn;// Recommence la boucle si la  saisie est invalide
+
+    }
 
 
     // Calculer la somme des nombres impairs jusqu'à 'n'

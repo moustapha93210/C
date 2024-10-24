@@ -8,11 +8,25 @@ int main() {
     float *benefice = malloc(1 * sizeof(float) );
     float *perte = malloc(1 * sizeof(float) );
 
-    printf("Veuillez saisir le prix de revient : ");
-    scanf("%f", pr);
 
-    printf("Veuillez saisir le prix de vente : ");
-    scanf("%f", pv);
+    recpr:
+    printf("\nVeuillez saisir le prix de revient : ");
+    if(scanf("%f", pr) != 1){
+
+        printf("Erreur ! Veuillez choisir un nombre.\n");
+        while(getchar() != '\n');// Vide le buffer d'entrée
+        goto recpr;// Recommence la boucle si la  saisie est invalide
+    }
+
+
+    recpv:
+    printf("\nVeuillez saisir le prix de vente : ");
+    if(scanf("%f", pv) != 1){
+
+        printf("Erreur ! Veuillez choisir un nombre.\n");
+        while(getchar() != '\n');// Vide le buffer d'entrée
+        goto recpv;// Recommence la boucle si la  saisie est invalide
+    }
 
     *benefice = *pv - *pr;
 
