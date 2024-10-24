@@ -3,4 +3,5 @@ project(Exercice_105 C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(Exercice_105 main.c)
+add_executable(main main.c)
+add_executable(programme_AllocTrieTab programme_AllocTrieTab.c)
